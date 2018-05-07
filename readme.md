@@ -1,6 +1,6 @@
 # Awesome Puppeteer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [puppeteer](https://developers.google.com/web/tools/puppeteer/) resources for controlling [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
+> A curated list of awesome [puppeteer](https://developers.google.com/web/tools/puppeteer/) resources for controlling [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
 
 <p align="center">
   <img width="200" src="https://cdn.rawgit.com/transitive-bullshit/awesome-puppeteer/master/logo.png">
@@ -18,8 +18,8 @@
 
 ## Official
 
-- [Puppeteer](https://developers.google.com/web/tools/puppeteer/) - Official homepage.
-- [Repo](https://github.com/GoogleChrome/puppeteer) - Official GitHub repository.
+- [Homepage](https://developers.google.com/web/tools/puppeteer/) - Official homepage.
+- [GitHub](https://github.com/GoogleChrome/puppeteer) - Official GitHub repository.
 - [API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md) - Official API docs.
 - [Playground](https://try-puppeteer.appspot.com/) - Hosted playground where you can experiment with Puppeteer.
 - [FAQ](https://developers.google.com/web/tools/puppeteer/faq) - Official FAQ.
