@@ -28,30 +28,32 @@
 
 ## Packages
 
-
-- [pupperender](https://github.com/LasaleFamine/pupperender) - Express middleware that renders PWAs for bots using puppeteer.
+- [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - Docker image with puppeteer installed.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Seems popular, though I'm not sure what it does (PR?).
 - [puppeteer-explore](https://github.com/laispace/puppeteer-explore) - Utility library for puppeteer.
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
-- [daily-signin](https://github.com/yidinghan/daily-signin) - Signin and control various chinese sites.
-- [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - Docker image with puppeteer installed.
-- [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept) - Auto-accept invitations on linkedin.
 
 
 ## Rendering and web scraping
 
+- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome. Very popular.
 - [Puppetron](https://github.com/cheeaun/puppetron) - Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron).
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Crawler that provides simple APIs to manipulate Headless Chrome and allows you to crawl dynamic websites.
 - [puppeteer-renderer](https://github.com/zenato/puppeteer-renderer) - Generic web page renderer.
 - [ReedD/crawler](https://github.com/ReedD/crawler) - BFS site crawler.
+- [pupperender](https://github.com/LasaleFamine/pupperender) - Express middleware that renders PWAs for bots using puppeteer.
+- [prerenderer](https://github.com/Tribex/prerenderer) - Framework-agnostic prerendering for sites and SPAs.
+- [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
 
 
 ## Testing
 
-- [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - (almost) Zero configuration tool for setting up and running Jest and Puppeteer easily. Also includes an assertion library for Puppeteer.
-- [mocha-headless-chrome](https://github.com/direct-adv-interfaces/mocha-headless-chrome) - Tool which runs client-side **mocha** tests in the command line through headless Chrome.
-- [angular-puppeteer-demo](https://github.com/Quramy/angular-puppeteer-demo) - Demo repository explaining how to use Puppeteer in Karma.
-- [puppeteer-to-istanbul-example](https://github.com/bcoe/puppeteer-to-istanbul-example) - Demo repository demonstrating how to output Puppeteer coverage in Istanbul format.
+- [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer.
+- [mocha-headless-chrome](https://github.com/direct-adv-interfaces/mocha-headless-chrome) - Run client-side mocha tests in the command line through Puppeteer.
+- [angular-puppeteer-demo](https://github.com/Quramy/angular-puppeteer-demo) - Demos how to use Puppeteer in Karma.
+- [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) - Assertion library for Puppeteer.
+- [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) - Storybook addon to save screenshots of your stories via puppeteer. 📷
+- [e2e](https://github.com/dollarshaveclub/e2e) - End-to-end testing.
 
 
 ## Services
@@ -68,6 +70,8 @@
 - [Official use case-driven examples](https://github.com/GoogleChromeLabs/puppeteer-examples) - More complex, high quality, use case-driven examples.
 - [puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Quality examples for real life use cases such as scraping web pages and common login scenarios.
 - [puppeteer-samples](https://github.com/sweekson/puppeteer-samples) - Misc examples.
+- [daily-signin](https://github.com/yidinghan/daily-signin) - Signin and control various chinese sites.
+- [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept) - Auto-accept invitations on linkedin.
 
 
 ## Articles
