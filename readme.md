@@ -28,6 +28,10 @@
 
 ## Packages
 
+- [puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
+- [puppeteer-email-cli](https://github.com/transitive-bullshit/puppeteer-email/tree/master/packages/puppeteer-email-cli) - CLI for email automation driven by headless chrome.
+- [puppeteer-github](https://github.com/transitive-bullshit/puppeteer-github) - GitHub automation driven by headless chrome.
+- [puppeteer-github-cli](https://github.com/transitive-bullshit/puppeteer-github-cli) - CLI for GitHub automation driven by headless chrome.
 - [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - Docker image with puppeteer installed.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Seems popular, though I'm not sure what it does (PR?).
 - [puppeteer-explore](https://github.com/laispace/puppeteer-explore) - Utility library for puppeteer.
