@@ -36,6 +36,7 @@
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Seems popular, though I'm not sure what it does (PR?).
 - [puppeteer-explore](https://github.com/laispace/puppeteer-explore) - Utility library for puppeteer.
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
+- [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use custom user preferences, stealth mode, allow flash by default
 
 
 ## Rendering and web scraping
