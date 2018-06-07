@@ -36,7 +36,13 @@
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Seems popular, though I'm not sure what it does (PR?).
 - [puppeteer-explore](https://github.com/laispace/puppeteer-explore) - Utility library for puppeteer.
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
-- [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use custom user preferences, stealth mode, allow flash by default
+- [puppeteer-extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - A light-weight wrapper around puppeteer to enable plugins through a clean interface.
+- [puppeteer-extra-plugin-stealth](https://github.com/berstend/puppeteer-extra/blob/master/packages/puppeteer-extra-plugin-stealth) - Applies various evasion techniques to make detection of headless puppeteer harder.
+- [puppeteer-extra-plugin-devtools](https://github.com/berstend/puppeteer-extra/blob/master/packages/puppeteer-extra-plugin-devtools) - Makes puppeteer browser debugging possible from anywhere.
+- [puppeteer-extra-plugin-repl](https://github.com/berstend/puppeteer-extra/blob/master/packages/puppeteer-extra-plugin-repl) - Makes quick puppeteer debugging and exploration fun with an interactive REPL.
+- [puppeteer-extra-plugin-flash](https://github.com/berstend/puppeteer-extra/blob/master/packages/puppeteer-extra-plugin-flash) - Allows flash content to run on all sites without user interaction.
+- [puppeteer-extra-plugin-user-preferences](https://github.com/berstend/puppeteer-extra/blob/master/packages/puppeteer-extra-plugin-user-preferences) - Allows setting custom Chrome/Chromium user preferences.
+- [puppeteer-extra-plugin-block-resources](https://github.com/berstend/puppeteer-extra/blob/master/packages/puppeteer-extra-plugin-block-resources) - Blocks resources (images, media, css, etc.) in puppeteer.
 
 
 ## Rendering and web scraping
