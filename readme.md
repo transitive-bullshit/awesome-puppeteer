@@ -49,7 +49,7 @@
 - [pupperender](https://github.com/LasaleFamine/pupperender) - Express middleware that renders PWAs for bots using puppeteer.
 - [prerenderer](https://github.com/Tribex/prerenderer) - Framework-agnostic prerendering for sites and SPAs.
 - [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
-
+- [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites
 
 ## Testing
 
