@@ -80,6 +80,7 @@
 - [puppeteer-samples](https://github.com/sweekson/puppeteer-samples) - Misc examples.
 - [daily-signin](https://github.com/yidinghan/daily-signin) - Signin and control various chinese sites.
 - [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept) - Auto-accept invitations on linkedin.
+- [instagram-get-images](https://github.com/aofdev/instagram-get-images) - Instagram scraper images.
 
 
 ## Articles
