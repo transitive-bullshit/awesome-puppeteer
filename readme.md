@@ -30,6 +30,8 @@
 
 - [puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
 - [puppeteer-email-cli](https://github.com/transitive-bullshit/puppeteer-email/tree/master/packages/puppeteer-email-cli) - CLI for email automation driven by headless chrome.
+- [puppeteer-instagram](https://github.com/transitive-bullshit/puppeteer-instagram) - Instagram automation driven by headless chrome.
+- [puppeteer-instagram-cli](https://github.com/transitive-bullshit/puppeteer-instagram-cli) - CLI for Instagram automation driven by headless chrome.
 - [puppeteer-github](https://github.com/transitive-bullshit/puppeteer-github) - GitHub automation driven by headless chrome.
 - [puppeteer-github-cli](https://github.com/transitive-bullshit/puppeteer-github-cli) - CLI for GitHub automation driven by headless chrome.
 - [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - Docker image with puppeteer installed.
@@ -38,6 +40,7 @@
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
 - [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use stealth mode, custom user prefs, etc.
 - [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
+- [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) = Port of Puppeteer to .NET.
 
 
 ## Rendering and web scraping
