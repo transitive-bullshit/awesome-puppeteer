@@ -14,10 +14,11 @@
 - [Testing](#testing)
 - [Services](#services)
 - [Articles](#articles)
+- [Community](#community)
 
 
 ## Official
-
+- [Website](https://pptr.dev/) - Official Website.
 - [Homepage](https://developers.google.com/web/tools/puppeteer/) - Official homepage.
 - [GitHub](https://github.com/GoogleChrome/puppeteer) - Official GitHub repository.
 - [API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md) - Official API docs.
@@ -82,6 +83,7 @@
 - [puppeteer-samples](https://github.com/sweekson/puppeteer-samples) - Misc examples.
 - [daily-signin](https://github.com/yidinghan/daily-signin) - Signin and control various chinese sites.
 - [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept) - Auto-accept invitations on linkedin.
+- [instagram-get-images](https://github.com/aofdev/instagram-get-images) - Instagram scraper images.
 
 
 ## Articles
@@ -92,6 +94,9 @@
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Alternative Headless Chrome Projects.
 - [What's the difference between Chromium and Chrome?](https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/)
 
+
+## Community
+- [Slack Channel](https://join.slack.com/t/puppeteer/shared_invite/enQtMzU4MjIyMDA5NTM4LTM1OTdkNDhlM2Y4ZGUzZDdjYjM5ZWZlZGFiZjc4MTkyYTVlYzIzYjU5NDIyNzgyMmFiNDFjN2UzNWU0N2ZhZDc)
 
 ## Contribute
 
