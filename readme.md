@@ -11,18 +11,20 @@
 
 - [Official](#official)
 - [Packages](#packages)
+- [Rendering and web scraping](#rendering-and-web-scraping)
 - [Testing](#testing)
 - [Services](#services)
+- [Examples](#examples)
 - [Articles](#articles)
 - [Community](#community)
 
 
 ## Official
-- [Website](https://pptr.dev/) - Official Website.
-- [Homepage](https://developers.google.com/web/tools/puppeteer/) - Official homepage.
+- [Website](https://pptr.dev) - Official Website.
+- [Homepage](https://developers.google.com/web/tools/puppeteer) - Official homepage.
 - [GitHub](https://github.com/GoogleChrome/puppeteer) - Official GitHub repository.
 - [API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md) - Official API docs.
-- [Playground](https://try-puppeteer.appspot.com/) - Hosted playground where you can experiment with Puppeteer.
+- [Playground](https://try-puppeteer.appspot.com) - Hosted playground where you can experiment with Puppeteer.
 - [FAQ](https://developers.google.com/web/tools/puppeteer/faq) - Official FAQ.
 - [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) - Chrome DevTools Protocol API Docs.
 
@@ -41,7 +43,7 @@
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
 - [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use stealth mode, custom user prefs, etc.
 - [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
-- [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) = Port of Puppeteer to .NET.
+- [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
 
 
 ## Rendering and web scraping
@@ -54,7 +56,7 @@
 - [pupperender](https://github.com/LasaleFamine/pupperender) - Express middleware that renders PWAs for bots using puppeteer.
 - [prerenderer](https://github.com/Tribex/prerenderer) - Framework-agnostic prerendering for sites and SPAs.
 - [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
-- [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites
+- [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
 
 
 ## Testing
@@ -63,7 +65,7 @@
 - [mocha-headless-chrome](https://github.com/direct-adv-interfaces/mocha-headless-chrome) - Run client-side mocha tests in the command line through Puppeteer.
 - [angular-puppeteer-demo](https://github.com/Quramy/angular-puppeteer-demo) - Demos how to use Puppeteer in Karma.
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) - Assertion library for Puppeteer.
-- [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) - Storybook addon to save screenshots of your stories via puppeteer. 📷
+- [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) - Storybook addon to save screenshots of your stories via puppeteer.
 - [e2e](https://github.com/dollarshaveclub/e2e) - End-to-end testing.
 
 
