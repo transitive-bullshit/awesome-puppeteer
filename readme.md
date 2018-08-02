@@ -57,6 +57,7 @@
 - [prerenderer](https://github.com/Tribex/prerenderer) - Framework-agnostic prerendering for sites and SPAs.
 - [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
+- [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli
 
 
 ## Testing
