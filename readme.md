@@ -67,6 +67,7 @@
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) - Assertion library for Puppeteer.
 - [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) - Storybook addon to save screenshots of your stories via puppeteer.
 - [e2e](https://github.com/dollarshaveclub/e2e) - End-to-end testing.
+- [rize](https://github.com/g-plane/rize) - High-level, fluent and chainable API provided library for puppeteer.
 
 
 ## Services
