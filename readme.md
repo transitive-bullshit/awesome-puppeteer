@@ -1,4 +1,4 @@
-# Awesome Puppeteer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Puppeteer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome [puppeteer](https://developers.google.com/web/tools/puppeteer/) resources for controlling [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) Chrome (or Chromium) over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
 
@@ -58,7 +58,7 @@
 - [prerenderer](https://github.com/Tribex/prerenderer) - Framework-agnostic prerendering for sites and SPAs.
 - [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
-- [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli
+- [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
 
 
 ## Testing
