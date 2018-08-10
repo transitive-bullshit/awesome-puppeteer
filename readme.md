@@ -18,7 +18,7 @@
 - [Services](#services)
 - [Examples](#examples)
 - [Articles](#articles)
-- [Community](#community)
+- [Related](#related)
 
 
 ## Official
@@ -46,11 +46,11 @@
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
 - [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use stealth mode, custom user prefs, etc.
 - [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
-- [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
 
 
 ## Rendering and web scraping
 
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome. Very popular.
 - [Puppetron](https://github.com/cheeaun/puppetron) - Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron).
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Crawler that provides simple APIs to manipulate Headless Chrome and allows you to crawl dynamic websites.
@@ -61,7 +61,6 @@
 - [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
-- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 
 
 ## Testing
@@ -78,10 +77,10 @@
 
 ## Services
 
-- [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Self-hosted service for rendering.
-- [checkly](https://checklyhq.com) - Monitoring SaaS that uses Puppeteer to check availability and correctness of web pages and apps.
-- [browserless](https://github.com/joelgriffith/browserless) - Headless Chrome as a service letting you execute Puppeteer scripts remotely. Provides a docker image with configuration for concurrency, launch arguments and more.
 - [Puppeteer Sandbox](https://puppeteersandbox.com) - Puppeteer sandbox environment as a service. Runs Puppeteer scripts and allows saving and embedding them in external sites and markdown files.
+- [checkly](https://checklyhq.com) - Monitoring SaaS that uses Puppeteer to check availability and correctness of web pages and apps.
+- [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Self-hosted service for rendering.
+- [browserless](https://github.com/joelgriffith/browserless) - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
 
 
 ## Examples
@@ -92,7 +91,7 @@
 - [puppeteer-samples](https://github.com/sweekson/puppeteer-samples) - Misc examples.
 - [daily-signin](https://github.com/yidinghan/daily-signin) - Signin and control various chinese sites.
 - [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept) - Auto-accept invitations on linkedin.
-- [instagram-get-images](https://github.com/aofdev/instagram-get-images) - Instagram scraper images.
+- [instagram-get-images](https://github.com/aofdev/instagram-get-images) - Instagram image scraper.
 
 
 ## Articles
@@ -104,9 +103,9 @@
 - [What's the difference between Chromium and Chrome?](https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/)
 
 
-## Community
+## Related
 
-- [Slack Channel](https://join.slack.com/t/puppeteer/shared_invite/enQtMzU4MjIyMDA5NTM4LTM1OTdkNDhlM2Y4ZGUzZDdjYjM5ZWZlZGFiZjc4MTkyYTVlYzIzYjU5NDIyNzgyMmFiNDFjN2UzNWU0N2ZhZDc)
+- [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
 
 
 ## Contribute
