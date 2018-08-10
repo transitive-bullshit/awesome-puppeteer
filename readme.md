@@ -72,6 +72,7 @@
 - [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) - Storybook addon to save screenshots of your stories via puppeteer.
 - [e2e](https://github.com/dollarshaveclub/e2e) - End-to-end testing.
 - [rize](https://github.com/g-plane/rize) - High-level, fluent and chainable API provided library for puppeteer.
+- [mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, Headless Chrome and WebDriver.
 
 
 ## Services
