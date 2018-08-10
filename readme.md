@@ -50,8 +50,8 @@
 
 ## Rendering and web scraping
 
-- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome. Very popular.
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 - [Puppetron](https://github.com/cheeaun/puppetron) - Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron).
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Crawler that provides simple APIs to manipulate Headless Chrome and allows you to crawl dynamic websites.
 - [puppeteer-renderer](https://github.com/zenato/puppeteer-renderer) - Generic web page renderer.
