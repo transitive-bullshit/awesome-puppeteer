@@ -61,6 +61,7 @@
 - [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 
 
 ## Testing
