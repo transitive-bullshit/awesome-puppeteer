@@ -106,6 +106,7 @@
 ## Related
 
 - [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
+- [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
 
 
 ## Contribute
