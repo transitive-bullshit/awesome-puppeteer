@@ -75,6 +75,7 @@
 - [e2e](https://github.com/dollarshaveclub/e2e) - End-to-end testing.
 - [rize](https://github.com/g-plane/rize) - High-level, fluent and chainable API provided library for puppeteer.
 - [mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, Headless Chrome and WebDriver.
+- [tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end.
 
 
 ## Services
