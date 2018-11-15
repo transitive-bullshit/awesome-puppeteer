@@ -59,7 +59,7 @@
 - [ReedD/crawler](https://github.com/ReedD/crawler) - BFS site crawler.
 - [pupperender](https://github.com/LasaleFamine/pupperender) - Express middleware that renders PWAs for bots using puppeteer.
 - [prerenderer](https://github.com/Tribex/prerenderer) - Framework-agnostic prerendering for sites and SPAs.
-- [apify-js](https://github.com/apifytech/apify-js) - Generic crawler.
+- [Apify SDK](https://github.com/apifytech/apify-js) - Scalable web crawling and scraping library. 🕷️
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
 
