@@ -48,6 +48,7 @@
 - [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer script. 🔥
 - [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Cluster management for puppeteer.
+- [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium binary compatible with AWS Lambda (kept up to date with puppeteer).
 
 
 ## Rendering and web scraping
