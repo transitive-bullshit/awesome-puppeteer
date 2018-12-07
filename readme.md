@@ -75,7 +75,7 @@
 - [rize](https://github.com/g-plane/rize) - High-level, fluent and chainable API provided library for puppeteer.
 - [mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, Headless Chrome and WebDriver.
 - [tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end.
-- [puppetry](https://puppetry.app/) - scriptless :ok_hand: E2E test automation tool built on top of Google’s Puppeteer.
+- [puppetry](https://puppetry.app/) - Scriptless E2E test automation tool.
 
 
 ## Services
