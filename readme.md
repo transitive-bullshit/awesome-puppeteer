@@ -47,6 +47,7 @@
 - [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use stealth mode, custom user prefs, etc.
 - [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer script. 🔥
+- [minimalcss](https://github.com/peterbe/minimalcss) - Extracts the minimal / critical CSS used in a set of URLs.
 
 
 ## Rendering and web scraping
