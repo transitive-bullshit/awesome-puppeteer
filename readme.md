@@ -85,6 +85,7 @@
 - [checkly](https://checklyhq.com) - Monitoring SaaS that uses Puppeteer to check availability and correctness of web pages and apps.
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Self-hosted service for rendering.
 - [browserless](https://github.com/joelgriffith/browserless) - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
+- [FusionExport](https://www.fusioncharts.com/fusionexport) - FusionExport enables you to convert your live dashboards to PDF or images. It works with all JavaScript charting libraries (FusionCharts, HighCharts, d3, Chart.js or others) and is easy to install. It includes SDKs for Java, Node.js, C#, Go and many more.
 
 
 ## Examples
