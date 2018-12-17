@@ -51,7 +51,6 @@
 -   [puppeteer-github](https://github.com/transitive-bullshit/puppeteer-github)- 由puppeteer 驱动的 GitHub自动化. 
 -   [puppeteer-github-cli](https://github.com/transitive-bullshit/puppeteer-github-cli)- 由puppeteer 驱动的 GitHub自动化CLI. 
 -   [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer)- 安装了puppeteer的Docker镜像. 
--   [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep)- 虽然我不确定它的作用 (PR?) ,但似乎很受欢迎. 
 -   [puppeteer-explore](https://github.com/laispace/puppeteer-explore)- Puppeteer的实用程序库. 
 -   [differencify](https://github.com/NimaSoroush/differencify)- 用于视觉回归测试的库. 
 -   [puppeteer-extra](https://github.com/berstend/puppeteer-extra)- 包装使用隐身模式,自定义用户首选项等. 
@@ -97,6 +96,7 @@
 -   [daily-signin](https://github.com/yidinghan/daily-signin)- 登录并控制各个中国网站. 
 -   [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept)- 自动接受linkedin上的邀请. 
 -   [instagram-get-images](https://github.com/aofdev/instagram-get-images)-  Instagram 搜罗图片. 
+-   [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep)- 关于高级爬虫，UI 自动化和 Trace API 的几个示例. 
 
 ## 博文
 
