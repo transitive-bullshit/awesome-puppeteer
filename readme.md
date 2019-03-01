@@ -78,6 +78,7 @@
 - [tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end.
 - [puppetry](https://puppetry.app/) - Scriptless E2E test automation tool.
 - [wendigo](https://github.com/angrykoala/wendigo) - Puppeteer wrapper to ease test development.
+- [axe-puppeteer](https://github.com/dequelabs/axe-puppeteer) - Automated accessiblity Web UI testing.
 
 ## Services
 
