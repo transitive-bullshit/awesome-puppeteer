@@ -48,6 +48,8 @@
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer script. 🔥
 - [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Cluster management for puppeteer.
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium binary compatible with AWS Lambda (kept up to date with puppeteer).
+- [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites.
+- [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - CLI to capture screenshots of websites.
 
 
 ## Rendering and web scraping
