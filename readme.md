@@ -52,7 +52,7 @@
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium binary compatible with AWS Lambda (kept up to date with puppeteer).
 - [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites.
 - [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - CLI to capture screenshots of websites.
-- [facebook-birthday-cli](https://github.com/igniteram/facebook-birthday-cli) - A Command Line Interface to list and wish your facebook friends.
+- [facebook-birthday-cli](https://github.com/igniteram/facebook-birthday-cli) - Command Line Interface to list and wish your facebook friends.
 
 
 ## Rendering and web scraping
