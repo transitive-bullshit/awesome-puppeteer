@@ -53,7 +53,7 @@
 - [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites.
 - [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - CLI to capture screenshots of websites.
 - [facebook-birthday-cli](https://github.com/igniteram/facebook-birthday-cli) - Command Line Interface to list and wish your facebook friends.
-
+- [puppeteer-chromium-resolver](https://github.com/cenfun/puppeteer-chromium-resolver) - Tool to resolve puppeteer's chromium faster, detect local installed chromium, download chromium with custom/mirror host, cache chromium revision out of node_modules, test chromium headless being launchable.
 
 ## Rendering and web scraping
 

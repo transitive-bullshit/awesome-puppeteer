@@ -56,6 +56,7 @@
 -   [puppeteer-extra](https://github.com/berstend/puppeteer-extra)- 包装使用隐身模式,自定义用户首选项等. 
 -   [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text)- 使用puppeteer 的强大文本渲染器. 
 -   [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp)-  Puppeteer到.NET的端口. 
+-   [puppeteer-chromium-resolver](https://github.com/cenfun/puppeteer-chromium-resolver) - 快速安装puppeteer/chromium的工具，检查本机是否已经安装，支持自动从镜像地址下载防止被墙，缓存版本到本机其他目录以免node_modules删除需要重新下载，测试chromium headless是否可以成功启动
 
 ## 渲染和网页抓取
 
