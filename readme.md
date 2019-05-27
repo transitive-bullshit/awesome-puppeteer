@@ -54,7 +54,8 @@
 - [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites.
 - [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - CLI to capture screenshots of websites.
 - [facebook-birthday-cli](https://github.com/igniteram/facebook-birthday-cli) - Command Line Interface to list and wish your facebook friends.
-
+- [timecut](https://github.com/tungs/timecut) - Record smooth movies of web pages with JavaScript animations.
+- [timesnap](https://github.com/tungs/timesnap) - Take screenshots of web pages at smooth intervals.
 
 ## Rendering and web scraping
 
