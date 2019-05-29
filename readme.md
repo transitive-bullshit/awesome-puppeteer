@@ -42,6 +42,7 @@
 - [puppeteer-instagram-cli](https://github.com/transitive-bullshit/puppeteer-instagram-cli) - CLI for Instagram automation driven by headless chrome.
 - [puppeteer-github](https://github.com/transitive-bullshit/puppeteer-github) - GitHub automation driven by headless chrome.
 - [puppeteer-github-cli](https://github.com/transitive-bullshit/puppeteer-github-cli) - CLI for GitHub automation driven by headless chrome.
+- [puppeteer-social-image](https://github.com/puppeteer/puppeteer-social-image) - Render social share images using HTML + CSS.
 - [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - Docker image with puppeteer installed.
 - [puppeteer-explore](https://github.com/laispace/puppeteer-explore) - Utility library for puppeteer.
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
@@ -53,6 +54,8 @@
 - [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites.
 - [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - CLI to capture screenshots of websites.
 - [facebook-birthday-cli](https://github.com/igniteram/facebook-birthday-cli) - Command Line Interface to list and wish your facebook friends.
+- [timecut](https://github.com/tungs/timecut) - Record smooth movies of web pages with JavaScript animations.
+- [timesnap](https://github.com/tungs/timesnap) - Take screenshots of web pages at smooth intervals.
 - [puppeteer-chromium-resolver](https://github.com/cenfun/puppeteer-chromium-resolver) - Tool to resolve puppeteer's chromium faster, detect local installed chromium, download chromium with custom/mirror host, cache chromium revision out of node_modules, test chromium headless being launchable.
 
 
