@@ -105,7 +105,7 @@
 - [linkedin-autoaccept](https://github.com/MRdotB/linkedin-autoaccept) - Auto-accept invitations on linkedin.
 - [instagram-get-images](https://github.com/aofdev/instagram-get-images) - Instagram image scraper.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Demos on crawling, UI automation, trace API and so on.
-
+- [html_to_pdf](https://github.com/chuongtrh/html_to_pdf) - Generate a simple invoice PDF from HTML.
 
 ## Articles
 
