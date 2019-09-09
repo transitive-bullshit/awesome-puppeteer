@@ -59,6 +59,7 @@
 - [timecut](https://github.com/tungs/timecut) - Record smooth movies of web pages with JavaScript animations.
 - [timesnap](https://github.com/tungs/timesnap) - Take screenshots of web pages at smooth intervals.
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - CLI to generate multi-platform PWA icons, splash screens and meta code based on web standards.
+- [@cliqz/adblocker-puppeteer](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-puppeteer) - Efficient and flexible adblocker library to easily block ads and trackers.
 
 ## Rendering and web scraping
 
