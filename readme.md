@@ -80,6 +80,7 @@
 
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer.
 - [mocha-headless-chrome](https://github.com/direct-adv-interfaces/mocha-headless-chrome) - Run client-side mocha tests in the command line through Puppeteer.
+- [codeceptjs with puppeteer](https://github.com/Codeception/CodeceptJS) - CodeceptJS is a high-level e2e testing framework running on top of Puppeteer.
 - [angular-puppeteer-demo](https://github.com/Quramy/angular-puppeteer-demo) - Demos how to use Puppeteer in Karma.
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) - Assertion library for Puppeteer.
 - [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) - Storybook addon to save screenshots of your stories via puppeteer.
