@@ -74,7 +74,8 @@
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
 - [Wbot](https://github.com/vasani-arpit/WBOT) - Configurable Whatsapp auto reply bot.
-
+- [ptt-crawler](https://github.com/WayneChang65/ptt-crawler) - [Ptt](https://www.ptt.cc/index.html) (the most famous and biggest BBS in Taiwan) site crawler.
+- [baha-crawler](https://github.com/WayneChang65/baha-crawler) - [Bahamut Forum](https://www.gamer.com.tw/) (the most famous and biggest game forum in Taiwan) site crawler.
 
 ## Testing
 
