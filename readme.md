@@ -97,6 +97,7 @@
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Self-hosted service for rendering.
 - [browserless](https://github.com/joelgriffith/browserless) - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
 - [FusionExport](https://www.fusioncharts.com/fusionexport) - Export dashboards or charts to PDF or images. Looks mature.
+- [ProxyCrawl](https://proxycrawl.com) - Cloud Headless Chrome as a service without having to worry about infrastructure, proxies, captchas or block.
 
 
 ## Examples
