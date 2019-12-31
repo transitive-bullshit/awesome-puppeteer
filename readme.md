@@ -60,6 +60,7 @@
 - [timesnap](https://github.com/tungs/timesnap) - Take screenshots of web pages at smooth intervals.
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - CLI to generate multi-platform PWA icons, splash screens and meta code based on web standards.
 - [@cliqz/adblocker-puppeteer](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-puppeteer) - Efficient and flexible adblocker library to easily block ads and trackers.
+- [browserless](https://browserless.js.org) – A puppeteer-like Node.js library for interacting with Headless production scenarios.
 
 ## Rendering and web scraping
 
@@ -98,6 +99,7 @@
 - [browserless](https://github.com/joelgriffith/browserless) - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
 - [FusionExport](https://www.fusioncharts.com/fusionexport) - Export dashboards or charts to PDF or images. Looks mature.
 - [ProxyCrawl](https://proxycrawl.com) - Headless Chrome as a service.
+- [microlink.io](https://microlink.io) – Turns any site into data.
 
 
 ## Examples
