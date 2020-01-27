@@ -61,6 +61,7 @@
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - CLI to generate multi-platform PWA icons, splash screens and meta code based on web standards.
 - [@cliqz/adblocker-puppeteer](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-puppeteer) - Efficient and flexible adblocker library to easily block ads and trackers.
 - [browserless](https://browserless.js.org) – A puppeteer-like Node.js library for interacting with Headless production scenarios.
+- [puppet-canvas](https://github.com/pshihn/puppet-canvas) - HTML5 Canvas implementation for Node.JS backed by Puppeteer.
 
 ## Rendering and web scraping
 
