@@ -101,6 +101,7 @@
 - [FusionExport](https://www.fusioncharts.com/fusionexport) - Export dashboards or charts to PDF or images. Looks mature.
 - [ProxyCrawl](https://proxycrawl.com) - Headless Chrome as a service.
 - [microlink.io](https://microlink.io) – Turns any site into data.
+- [HeadlessTesting](https://headlesstesting.com) – Headless Chrome testing with Puppeteer in the Cloud.
 
 
 ## Examples
