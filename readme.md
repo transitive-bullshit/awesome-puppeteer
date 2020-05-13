@@ -129,7 +129,7 @@
 
 - [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
-- [pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial Python port of Puppeteer.
+- [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Unofficial Python port of Puppeteer.
 - [capybara-chrome](https://github.com/carezone/capybara-chrome) – Unofficial Ruby port of Puppeteer.
 
 
