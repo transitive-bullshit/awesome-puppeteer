@@ -106,7 +106,7 @@
 
 ## Examples
 
-- [Official examples](https://github.com/GoogleChrome/puppeteer/tree/master/examples/) - Quality examples as part of the official puppeteer repo.
+- [Official examples](https://github.com/puppeteer/puppeteer/tree/main/examples) - Quality examples as part of the official puppeteer repo.
 - [Official use case-driven examples](https://github.com/GoogleChromeLabs/puppeteer-examples) - More complex, high quality, use case-driven examples.
 - [puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Quality examples for real life use cases such as scraping web pages and common login scenarios.
 - [puppeteer-samples](https://github.com/sweekson/puppeteer-samples) - Misc examples.
