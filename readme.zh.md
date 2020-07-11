@@ -89,7 +89,7 @@
 
 ## 例子
 
--   [官方 例子](https://github.com/GoogleChrome/puppeteer/tree/master/examples/)- 作为官方Puppeteer的一部分的优质示例. 
+-   [官方 例子](https://github.com/puppeteer/puppeteer/tree/main/examples)- 作为官方Puppeteer的一部分的优质示例. 
 -   [官方 使用 case-driven 例子](https://github.com/GoogleChromeLabs/puppeteer-examples)- 更复杂,高质量,用例驱动的示例. 
 -   [puppeteer-examples](https://github.com/checkly/puppeteer-examples)- 实际使用案例的质量示例,例如抓取网页和常见登录方案. 
 -   [puppeteer-samples](https://github.com/sweekson/puppeteer-samples)- 其他例子. 
