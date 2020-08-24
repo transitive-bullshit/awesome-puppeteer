@@ -66,6 +66,7 @@
 
 ## Rendering and web scraping
 
+- [BrowserGap](https://github.com/dosyago/BrowserGap) - Remote browser isolation and embeddable JavaScript webview powered by Headless Chrome.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 - [Puppetron](https://github.com/cheeaun/puppetron) - Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron).
