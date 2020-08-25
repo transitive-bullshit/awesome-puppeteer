@@ -66,7 +66,6 @@
 
 ## Rendering and web scraping
 
-- [BrowserGap](https://github.com/dosyago/BrowserGap) - Remote browser isolation and embeddable JavaScript webview powered by Headless Chrome.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentation frameworks.
 - [Puppetron](https://github.com/cheeaun/puppetron) - Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron).
@@ -78,7 +77,7 @@
 - [webgif](https://github.com/anishkny/webgif) - Easily generate animated GIFs from websites.
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
 - [Wbot](https://github.com/vasani-arpit/WBOT) - Configurable Whatsapp auto reply bot.
-
+- [BrowserGap](https://github.com/dosyago/BrowserGap) - Remote browser webview powered by Headless Chrome.
 
 ## Testing
 
