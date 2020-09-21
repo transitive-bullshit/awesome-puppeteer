@@ -104,6 +104,7 @@
 - [microlink.io](https://microlink.io) – Turns any site into data.
 - [HeadlessTesting](https://headlesstesting.com) – Headless Chrome testing with Puppeteer in the Cloud.
 - [FloodRunner](https://floodrunner.dev) - Open-source monitoring solution using puppeteer tests
+- [Sematext Synthetics](https://sematext.com/synthetic-monitoring/) - Synthetic Monitoring SaaS that uses Puppeteer for availability, web performance, and user journey monitoring. 
 
 
 ## Examples
