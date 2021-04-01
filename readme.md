@@ -48,7 +48,6 @@
 - [puppeteer-explore](https://github.com/laispace/puppeteer-explore) - Utility library for puppeteer.
 - [differencify](https://github.com/NimaSoroush/differencify) - Library for visual regression testing.
 - [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - Wrapper to use stealth mode, custom user prefs, etc.
-- [puppeteer-theater](https://github.com/nicoandmee/puppeteer-theater) - Automation framework focused on simplifying advanced workflows and stealth.
 - [puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer script. 🔥
 - [minimalcss](https://github.com/peterbe/minimalcss) - Extracts the minimal / critical CSS used in a set of URLs.
