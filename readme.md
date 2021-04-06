@@ -17,6 +17,7 @@
 - [Testing](#testing)
 - [Services](#services)
 - [Examples](#examples)
+- [Books](#books)
 - [Articles](#articles)
 - [Guides](#guides)
 - [Related](#related)
@@ -117,6 +118,10 @@
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Demos on crawling, UI automation, trace API and so on.
 - [html_to_pdf](https://github.com/chuongtrh/html_to_pdf) - Generate a simple invoice PDF from HTML.
 
+## Books
+
+- [UI Testing With Puppeteer](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X).
+
 ## Articles
 
 - [Headless Chrome: an answer to server-side rendering JS sites](https://developers.google.com/web/tools/puppeteer/articles/ssr) - By a member of the Google headless chrome team.
@@ -132,7 +137,7 @@
 
 ## Related
 
-- [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
+- [puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Port of Puppeteer to .NET.
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Unofficial Python port of Puppeteer.
 - [capybara-chrome](https://github.com/carezone/capybara-chrome) – Unofficial Ruby port of Puppeteer.
