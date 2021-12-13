@@ -62,6 +62,7 @@
 - [@cliqz/adblocker-puppeteer](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-puppeteer) - Efficient and flexible adblocker library to easily block ads and trackers.
 - [browserless](https://browserless.js.org) – A puppeteer-like Node.js library for interacting with Headless production scenarios.
 - [puppet-canvas](https://github.com/pshihn/puppet-canvas) - HTML5 Canvas implementation for Node.JS backed by Puppeteer.
+- [find-chrome-bin](https://github.com/mbalabash/find-chrome-bin) - Small cross-platform tool to find local Chromium binary when using puppeteer-core.
 
 ## Rendering and web scraping
 
