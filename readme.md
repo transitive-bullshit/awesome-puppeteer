@@ -95,7 +95,6 @@
 
 ## Services
 
-- [Try Browserless](https://github.com/cemalgnlts/try-browserless) - Playground for puppeteer. Run scripts, preview live, share with others.
 - [Puppeteer Sandbox](https://puppeteersandbox.com) - Puppeteer sandbox environment as a service. Runs Puppeteer scripts and allows saving and embedding them in external sites and markdown files.
 - [checkly](https://checklyhq.com) - Monitoring SaaS that uses Puppeteer to check availability and correctness of web pages and apps.
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Self-hosted service for rendering.
@@ -105,6 +104,7 @@
 - [microlink.io](https://microlink.io) – Turns any site into data.
 - [HeadlessTesting](https://headlesstesting.com) – Headless Chrome testing with Puppeteer in the Cloud.
 - [FloodRunner](https://floodrunner.dev) - Open-source monitoring solution using puppeteer tests
+- [Try Browserless](https://github.com/cemalgnlts/try-browserless) - Playground for puppeteer. Run scripts, preview live, share with others.
 
 
 ## Examples
