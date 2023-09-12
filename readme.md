@@ -103,7 +103,8 @@
 - [ProxyCrawl](https://proxycrawl.com) - Headless Chrome as a service.
 - [microlink.io](https://microlink.io) – Turns any site into data.
 - [HeadlessTesting](https://headlesstesting.com) – Headless Chrome testing with Puppeteer in the Cloud.
-- [FloodRunner](https://floodrunner.dev) - Open-source monitoring solution using puppeteer tests
+- [FloodRunner](https://floodrunner.dev) - Open-source monitoring solution using puppeteer tests.
+- [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 
 
 ## Examples
