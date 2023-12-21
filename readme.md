@@ -139,6 +139,7 @@
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Unofficial Python port of Puppeteer.
 - [capybara-chrome](https://github.com/carezone/capybara-chrome) – Unofficial Ruby port of Puppeteer.
+- [puphpeteer](https://github.com/rialto-php/puphpeteer) - PHP port of Puppeteer.
 
 
 ## Contribute
