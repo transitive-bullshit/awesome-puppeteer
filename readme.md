@@ -92,6 +92,7 @@
 - [tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end.
 - [puppetry](https://puppetry.app/) - Scriptless E2E test automation tool.
 - [wendigo](https://github.com/angrykoala/wendigo) - Puppeteer wrapper to ease test development.
+- [pptr-testing-library](https://github.com/testing-library/pptr-testing-library/) - User-focused query selectors based on dom-testing-library.
 
 ## Services
 
