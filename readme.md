@@ -78,6 +78,7 @@
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
 - [Wbot](https://github.com/vasani-arpit/WBOT) - Configurable Whatsapp auto reply bot.
 - [BrowserGap](https://github.com/dosyago/BrowserGap) - Remote browser webview powered by Headless Chrome.
+- [puppeteer-autoscroll-down](https://github.com/mbalabash/puppeteer-autoscroll-down) - Helps to deal with an infinite scroll on websites.
 
 ## Testing
 
