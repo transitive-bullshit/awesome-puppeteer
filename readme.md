@@ -119,7 +119,7 @@
 - [instagram-get-images](https://github.com/aofdev/instagram-get-images) - Instagram image scraper.
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) - Demos on crawling, UI automation, trace API and so on.
 - [html_to_pdf](https://github.com/chuongtrh/html_to_pdf) - Generate a simple invoice PDF from HTML.
-
+- [puppeteer lambda](https://github.com/jay-deshmukh/headless-chrome-with-puppeteer-on-AWS-lambda-with-serverless-framework) - Running puppeteer on AWS Lambda
 ## Articles
 
 - [Headless Chrome: an answer to server-side rendering JS sites](https://developers.google.com/web/tools/puppeteer/articles/ssr) - By a member of the Google headless chrome team.
