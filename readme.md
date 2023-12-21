@@ -92,6 +92,7 @@
 - [tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end.
 - [puppetry](https://puppetry.app/) - Scriptless E2E test automation tool.
 - [wendigo](https://github.com/angrykoala/wendigo) - Puppeteer wrapper to ease test development.
+- [puppeteer-scenario](https://github.com/gleb-lobastov/puppeteer-scenario) - Write declarative and reusable scenarios for puppeteer in the Arrange-Act-Assert pattern.
 
 ## Services
 
