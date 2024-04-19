@@ -106,6 +106,7 @@
 - [FloodRunner](https://floodrunner.dev) - Open-source monitoring solution using puppeteer tests.
 - [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
+- [Bytebot](https://www.bytebot.ai) - SaaS API that extends Puppeteer with AI prompts
 
 
 ## Examples
