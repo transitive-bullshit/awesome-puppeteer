@@ -92,6 +92,7 @@
 - [tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end.
 - [puppetry](https://puppetry.app/) - Scriptless E2E test automation tool.
 - [wendigo](https://github.com/angrykoala/wendigo) - Puppeteer wrapper to ease test development.
+- [protractor-puppeteer-plugin](https://github.com/And93/protractor-puppeteer-plugin) - Run your tests using Protractor and Puppeteer together.
 
 ## Services
 
