@@ -107,6 +107,7 @@
 - [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
 - [BrowserCat](https://www.browsercat.com) - Hosted Chrome/Chromium to deploy and scale your Puppeteer scripts affordably and reliably. Offers forever-free plan.
+- [Hyperbrowser](https://hyperbrowser.ai/) - Browser automation platform that enables running Puppeteer scripts at scale with advanced features like proxies, captcha solving, and session recording.
 
 ## Examples
 
