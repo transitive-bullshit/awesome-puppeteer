@@ -139,6 +139,7 @@
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Unofficial Python port of Puppeteer.
 - [capybara-chrome](https://github.com/carezone/capybara-chrome) – Unofficial Ruby port of Puppeteer.
+- [Hermes Screenshot API](https://github.com/hermesagent/screenshot-api) - Free screenshot API with PNG/WebP output, dark mode, retina rendering, ad blocking, and custom JS injection. No signup required.
 
 
 ## Contribute
