@@ -107,6 +107,7 @@
 - [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
 - [BrowserCat](https://www.browsercat.com) - Hosted Chrome/Chromium to deploy and scale your Puppeteer scripts affordably and reliably. Offers forever-free plan.
+- [AuditZap](https://auditzap.io/) - AI-powered website audit tool using Puppeteer Core for crawling. Runs 24 automated checks across SEO, performance, and site health.
 
 ## Examples
 
