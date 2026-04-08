@@ -78,6 +78,7 @@
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - WhatsApp chat from commandline/console/cli.
 - [Wbot](https://github.com/vasani-arpit/WBOT) - Configurable Whatsapp auto reply bot.
 - [BrowserGap](https://github.com/dosyago/BrowserGap) - Remote browser webview powered by Headless Chrome.
+- [html2pdf-slides](https://github.com/SingggggYee/html2pdf-slides) - Converts HTML slide presentations to high-fidelity PDF files with automatic framework detection.
 
 ## Testing
 
