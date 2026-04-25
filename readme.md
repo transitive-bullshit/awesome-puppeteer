@@ -139,6 +139,7 @@
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Unofficial Python port of Puppeteer.
 - [capybara-chrome](https://github.com/carezone/capybara-chrome) – Unofficial Ruby port of Puppeteer.
+- [camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents that bypasses Cloudflare and bot detection, with a Puppeteer-compatible REST API.
 
 
 ## Contribute
