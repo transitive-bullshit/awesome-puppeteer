@@ -107,6 +107,7 @@
 - [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
 - [BrowserCat](https://www.browsercat.com) - Hosted Chrome/Chromium to deploy and scale your Puppeteer scripts affordably and reliably. Offers forever-free plan.
+- [SnapAPI](https://snap.michaelcli.com) - REST API for website screenshots, metadata extraction, PDF generation, and text extraction. Built with Playwright.
 
 ## Examples
 
