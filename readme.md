@@ -108,6 +108,8 @@
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
 - [BrowserCat](https://www.browsercat.com) - Hosted Chrome/Chromium to deploy and scale your Puppeteer scripts affordably and reliably. Offers forever-free plan.
 
+- [ScreenshotRun](https://screenshotrun.com) - Screenshot API built on headless Chrome. Full page capture, custom viewport, batch processing, and multiple output formats via REST API.
+
 ## Examples
 
 - [Official examples](https://github.com/puppeteer/puppeteer/tree/main/examples) - Quality examples as part of the official puppeteer repo.
