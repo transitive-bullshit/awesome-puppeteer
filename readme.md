@@ -107,6 +107,7 @@
 - [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
 - [BrowserCat](https://www.browsercat.com) - Hosted Chrome/Chromium to deploy and scale your Puppeteer scripts affordably and reliably. Offers forever-free plan.
+- [CurlShot](https://curlshot.com) - Screenshot API that renders a URL, HTML or Markdown in headless Chromium and returns PNG, JPEG, WebP, PDF or a scrolling video, without running a browser yourself. Free plan available.
 
 ## Examples
 
