@@ -107,6 +107,7 @@
 - [The Browser Conference](https://www.accelevents.com/e/the-browser-conference-23) - A free half-day virtual conference focused on Browser Automation, Data Extraction and Testing.
 - [Doczilla](https://www.doczilla.app) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code.
 - [BrowserCat](https://www.browsercat.com) - Hosted Chrome/Chromium to deploy and scale your Puppeteer scripts affordably and reliably. Offers forever-free plan.
+- [SnapRender](https://snap-render.com) - Screenshot and PDF API that renders pages in real Chrome, with full-page capture, device presets and automatic ad and cookie-banner removal.
 
 ## Examples
 
